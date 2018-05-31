@@ -1,0 +1,32 @@
+{
+  "contatos": [
+    {
+      "codigo": 1,
+      "nome": "Alessandro Oliveira",
+      "telefone": "(71) 95658-4547",
+      "email": "627162008@unifacs.edu.br",
+      "id": 1
+    },
+    {
+      "codigo": 2,
+      "nome": "Daniel almeida",
+      "telefone": "(71) 95658-4547",
+      "email": "62847458@unifacs.edu.br",
+      "id": 2
+    },
+    {
+      "codigo": 3,
+      "nome": "Flávia Lima",
+      "telefone": "(71) 98755-8574",
+      "email": "seuemail@suaempresa.com.br",
+      "id": 3
+    },
+    {
+      "codigo": 4,
+      "nome": "Camilla Santos",
+      "telefone": "(71) 98654-7474",
+      "email": "camilla@hotmail.com",
+      "id": 4
+    }
+  ]
+}
